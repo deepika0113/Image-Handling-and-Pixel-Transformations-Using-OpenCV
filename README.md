@@ -1,7 +1,7 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-## Name : DEVESH S
-## Reg No : 212223230041
-## Date : 28/08/25
+## Name : ASWIN L
+## Reg No : 212224230028
+## Date : 31/08/25
 
 
 ## AIM:
