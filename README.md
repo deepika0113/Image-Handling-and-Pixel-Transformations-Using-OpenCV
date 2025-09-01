@@ -1,7 +1,7 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-## Name : ASWIN L
-## Reg No : 212224230028
-## Date : 31/08/25
+## Name : DEEPIKA.R
+## Reg No : 212224100009
+## Date : 01/09/25
 
 
 ## AIM:
@@ -36,8 +36,8 @@ Split the image (boy.jpg) into B, G, R components and display the channel
 
 ## PROGRAM DEVELOPED BY:
 ~~~
-NAME : ASWIN L
-REG NO: 212224230028
+NAME : DEEPIKA.R
+REG NO: 212224100009
 ~~~
 
 
